@@ -1,0 +1,6 @@
+@book{van2012learning,
+  title={Learning RStudio for R statistical computing},
+  author={Van der Loo, Mark PJ},
+  year={2012},
+  publisher={Packt Publishing Ltd}
+}

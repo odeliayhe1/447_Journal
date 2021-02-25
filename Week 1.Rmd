@@ -1,0 +1,31 @@
+---
+title: "**My Journal**"
+author: "Odelia"
+date: "2/25/2021"
+output: html_document
+bibliography: ["ref.bib"]
+link-citations: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# _Welcome to my Journal_
+
+For this year, I'll be starting on a new programming language called "R" and I'm really excited for it. ~~My most recent interaction with a programming language was with Matlab and even though I struggled with it a little, I found myself enjoying it quite abit. Hopefully, I'll enjoy R as much as or even more than I did with Matlab.~~
+
+## _Getting started_
+
+To get started, I set up a GitHub account, downloaded R, and RStudio. Doing this was pretty much effortless as Prof Joe and Johannes had already provided the URL to them. I then found this: <https://support.rstudio.com/hc/en-us/articles/201141096-Getting-Started-with-R> as I was figuring out how to maneuver around R. This was also helpful to me [@kihaka1996r]. There is so many information that I'm still trying to wrap my head around, but I believe in:
+
+> Nothing will come out of nothing. -King Lear by William Shakespeare
+
+The beginning is always the hardest, stay positive[^1], don't give up and hard work always pays off.
+
+### _My experience for this week_
+
+This week has been quite tedious for me as I had to begin my R learning journey with virtually zero knowledge in the program and minimal guidance. Fortunately, my sister and some friends lent their relentless support and help by searching for online tutorials and even downloaded RStudio to brainstorm and solve some issues I faced while completing the tasks. Being unable to attend the practical session at uni sure was a bummer [^2] as I didn't have the opportunity to interact with my classmates and troubleshoot ~~the tasks~~ together. Nevertheless, I'm glad that I managed to complete the tasks and it definitely felt ~~more~~ satisfactory and rewarding.
+
+[^1]: For *"The aim of Positive Psychology is to catalyze a change in psychology from a preoccupation only with repairing the worst things in life to also building the best qualities in life"* -Martin Seligman
+[^2]: Can't be helped since I'm in Singapore and have no other viable options than to study remotely.
