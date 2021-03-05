@@ -1,0 +1,33 @@
+---
+title: "Week 2 Journal"
+author: "Odelia"
+date: "3/4/2021"
+output:
+  word_document: default
+  pdf_document: default
+  html_document:
+    df_print: paged
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# _Week 2_
+
+Week 2's workbook felt like a Math revision but I completed it and I'm feeling proud of myself. 
+
+## _Hurdles_
+
+The first hurdle was creating a data frame. My friends and I found help here: https://datatofish.com/create-dataframe-in-r/. Incidentally, we also learnt that data frames can be created by the 'matrix' function[^1]. Coding the data frame felt rather intuitive but it was tough as everything had to be right down to every symbol. I felt a little intimidated whilst toying with the code but through "trial and error" and making sense of the coding language, I managed to create a data frame and also add a little humour to it as well.
+
+The second and last hurdle was whilst trying to read, save, and read data back into R. My friends found out that we had to install package "here" before we could save the data using "here". I then had to create a directory for the data to tell R to save the "data" using "here".
+
+> "If everyone is moving forward together, then success takes care of itself." -Henry Ford
+
+### _Questions_
+
+Some things have been bewildering me that I have not yet found the answers to. One of which is why does the '$' symbol link up all the words typed after it? Another unsolved mystery is why does my work process in the 'console', and the plots and table I have created, all disapper when I close and open the Rmd file again?
+
+
+[^1]: matrix(data=NA,nrow=1, ncol=5); https://www.dummies.com/programming/r/how-to-create-a-data-frame-from-a-matrix-in-r/
