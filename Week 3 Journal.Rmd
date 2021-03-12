@@ -1,0 +1,32 @@
+---
+title: "Week 3 Journal"
+author: "Odelia"
+date: "3/12/2021"
+output:
+  pdf_document: default
+  html_document: default
+  word_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# _Week 3_
+
+Week 3's workbook was by far the hardest to complete and possibly one of the easier ones out of the course.
+
+## _Hurdles_
+
+The first hurdle I met was to add a facet to the graph by which the groups are represented specifically by shapes. Adding a facet was easy enough but the problem was adding a 7th shape to the 7th group. This would not be an issue if the groups are represented by colours but as ggplot only defines up to 6 different symbols automatically, my 7th group would not be represented by any shape. Hence, the data points would not be visually plotted. After a little search with my friends, I learnt that I had to specify the values manually using scale_shape_manual[^1]. 
+
+The second hurdle was one I wrecked my brain for the entire day on but I finally did it -> having to convert a variable to "numeric". Searches online and brainstorming with my friends, even trying out codes on my own could not solve this issue I had but alas, I found the solution[^2]! I learnt many stuff in the process - like using class() to check if the data is "numeric", and different variations of transforming data such as the "mutate_at" function.
+
+### _End of workbook_
+
+I realised in the process that I really do not have the knack for coding but as much as it frustrates me to no end, the satisfaction of reaching a positive outcome after all the hardwork was one of the best feelings ever! I am also glad that I can share this feeling with my friends as we work, struggle, and solve together.
+
+nb: Thanks Joe for helping me to solve my issue of not having my plots appear after knitting!
+
+[^1]: https://stackoverflow.com/questions/26223857/more-than-six-shapes-in-ggplot
+[^2]: It was what seemed like a bible to me at that point -> https://stackoverflow.com/questions/19116442/how-to-convert-factor-to-numeric-in-r-without-nas-introduced-by-coercion-warning
