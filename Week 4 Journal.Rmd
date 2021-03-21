@@ -1,0 +1,27 @@
+---
+title: "Week 4 Journal"
+author: "Odelia"
+date: "3/20/2021"
+output:
+  pdf_document: default
+  html_document: default
+  word_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# _Week 4_
+
+Week 4's workbook has upped a notch and it has taken over my weekend successfully.
+
+## _Hurdles_
+
+Plenty of them this week. Question 7 was a pain to answer and despite asking my friends, I was not able to figure out how to solve it. I was able to change the variables with 'format' and '%m' but I just couldn't get it to come out right in a table. Regardless, I am still looking forward to getting the answer and finally learning how to solve this question.
+
+I realised that part of the hurdle to answering the workbooks are the "hints" that diminish over the course of the workbooks. It is a little terrifying to think about how the workbooks are going to be when half the time is spent pondering over what the question is actually asking for but I guess we are all in the same boat and it'll be exponentially easier with the help and understandings from my classmates.
+
+### _End of workbook_
+
+Despite the multiple hurdles and stresses over the weekend, it was still comforting to know that we are able to help each other out and that we're accomplishing something together. It is great that the class has a facebook page and I am able to actively participate in answering and getting help from my wonderful classmates. But I still hope that I will be able to progress successfully over the rest of the workbooks.
