@@ -1,0 +1,27 @@
+---
+title: "Week 5 Journal"
+author: "Odelia"
+date: "3/26/2021"
+output:
+  pdf_document: default
+  html_document: default
+  word_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# _Week 5_
+
+This week's workbook was way more manageable and was a different kind of challenge to the usual workbooks. It made me think of how the data could be best plotted and presented to answer the questions in the clearest possible way.
+
+## _Hurdles_
+
+As the questions were a different kind of challenge this week, hurdles were less technical and more practical. It made me think of the kind of variables I'm plotting with and in what way should I present it best. It was like a refresher to the exact plots that I should be making for variables that are categorial and continuous. And rather than the usual scatterplot that I could plot for a categorical and continuous variable, I thought it would be more informative if I plotted a box plot that could show the means of the data at a glance. 
+
+From this workbook, I also learnt some fancy things I could do like determine the colour of the regression line and remove its confidence bands.
+
+### _End of workbook_
+
+This week was less taxing for the class as people are not posting questions for help on the facebook page. But it was still nice that they are still meeting up to complete the workbook together. I guess a nice community was borne from the workbooks already.
