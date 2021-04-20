@@ -1,0 +1,26 @@
+---
+title: "Week 6 Journal"
+author: "Odelia"
+date: "4/20/2021"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# _Week 6_
+
+Week 6 workbook was about writing an introduction with the data that was stripped down from my thesis. Whilst it went ok, I kinda miss figuring out the codes and that sense of achievement after I get it done [^1]. But it's a relief at the same time that I can finally work on stuff that I actually know how.
+
+## _Hurdles_
+
+There wasn't exactly hurdles per se for this workbook but I did experience some difficulties trying to get my code to work, especially when I have to use my own data now. The NaNs made me wondered a little why they existed but I kinda figured out and am still wondering if I should remove them for this lab report. I will pretty much be using this introduction if it’s alright but I plan to include age into this report as a moderating factor. I also plan to include the sample size used in the individual studies to illustrate the statistical power of the respective correlation coefficients. I have not decided on how I am going to go about doing these yet and thus, have not included it in this workbook.
+
+### _End of workbook_
+
+I am not sure if I'm being unrealistically hopeful by trying to include all these ideas into this report and it would probably make my life alot easier if I don't - considering that I only have 2.5k words for this report. But I guess things will work out as I go, and I still have some learning on Metafor to do.
+
+[^1]: I'm regretting it already as I type this.
