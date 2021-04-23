@@ -1,0 +1,24 @@
+---
+title: "Week 7 Journal"
+author: "Odelia"
+date: "4/24/2021"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# _Week 7_
+
+Week 7 workbook was manageable but still made me think throughout, what graphs to plot and the lot. R feels more intuitive now that I've grasped the basics of the libraries and stuff. 
+
+## _Hurdles_
+
+There wasn't hurdles per se for this workbook since my codes worked well from the get go fortunately. Just not exactly sure what to interpret single covariate as since it is essentially an independent variable so should I interpret it as the single vaariable for predicting my dependent variable? Or should I interpret it as a third variable that correlates to my dependent variable but is not a variable of primary interest? Thought about it for awhile and decided to just go with what the general understanding of a covariate is. The class seems to be working well as well :)
+
+### _End of workbook_
+
+This workbook brought back some memories of statistical uses such as testing for the assumption of multicollinearity. Quite excited to learn more every week!
