@@ -1,0 +1,24 @@
+---
+title: "Week 8 Journal"
+author: "Odelia"
+date: "4/29/2021"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# _Week 8_
+
+Week 8 workbook was manageable. The first question was pretty much straightforward but the second question required more working steps. Choosing the appropriate models was not difficult but it was abit of a challenge with choosing the covariates.
+
+## _Hurdles_
+
+The only hurdle I faced for this workbook was determining the covariates for CharityDonate. I tried out a bunch of covariates but they all seemed to not have much of a correlation as a predictor. I guess maybe the model that gets as close as possible is one that includes quite a fair amount of covariates or maybe there just isn't a correlation within the dataset as well. I'm pretty sure I did everything right so maybe there just isn't any major predictors for it. 
+
+### _End of workbook_
+
+This workbook taught me that interactions between variables and effect sizes aren't always prominent in real life situations. However, the variables seem to always have some form of interaction, even those that are least likely to be thought of.
